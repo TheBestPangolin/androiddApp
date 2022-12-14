@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Ok</string>
+    <string name="first_name">First name</string>
+    <string name="second_name">Second name</string>
+    <string name="age">Age</string>
+    <string name="phone_number">Phone number</string>
+    <string name="reset_to_last_save">Reset to last save</string>
+    <string name="save_changes">Save changes</string>
+</resources>
